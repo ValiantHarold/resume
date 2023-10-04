@@ -1,0 +1,92 @@
+{
+	"name": "Samuel Witt",
+	"phone": "(208) 789-8581",
+	"email": "25witt25@gmail.com",
+	"linkedin": "www.linkedin.com/in/samuel-witt-valiant",
+	"education": {
+		"degree": "Computer Science B.S.",
+		"university": "Brigham Young University - Idaho",
+		"location": "Rexburg, Idaho",
+		"duration": "Apr 2023",
+		"gpa": "3.85",
+		"certificates": [
+			"Machine Learning Fundamentals Certificate",
+			"Data Science Certificate",
+			"Web Development Certificate",
+			"Computer Programming Certificate",
+			"Web Frontend Certificate"
+		]
+	},
+	"tools": [
+		"Python",
+		"JavaScript",
+		"Pandas",
+		"R",
+		"NodeJS",
+		"Express",
+		"MongoDB",
+		"Tailwind",
+		"Svelte",
+		"Next.js",
+		"Angular",
+		"Machine Learning",
+		"Docker",
+		"PostgreSQL",
+		"Databricks"
+	],
+	"projects": [
+		{
+			"name": "All Things 4:13",
+			"duration": "Aug 2023 - Present",
+			"scope": "Developed and manage a dynamic eCommerce platform with scalability in mind facilitating sales and paving the way for future expansion.",
+			"bullets": [
+				"Utilized Svelte and Tailwind CSS to craft a responsive and visually captivating user interface, significantly enhancing user engagement while maintaining a modern and sleek design.",
+				"Seamlessly integrated Stripe for secure payment processing, ensuring a frictionless and secure checkout experience for users.",
+				"Capitalized on PostgreSQL as the robust backend database, effectively managing product listings, user accounts, and order processing, establishing a dependable foundation for the entire eCommerce ecosystem."
+			]
+		},
+		{
+			"name": "Chat App",
+			"duration": "Apr 2023 - Present",
+			"scope": "Implemented a real-time chat application using cutting-edge technologies, fostering seamless communication, and enhancing user engagement.",
+			"bullets": [
+				"Leveraged Next.js to create a highly responsive and dynamic real-time chat application, providing users with a fluid and intuitive interface.",
+				"Employed Redis as a robust and scalable database solution, ensuring efficient data storage and retrieval, while integrating Zod for comprehensive data validation to enhance the application's security and reliability."
+			]
+		},
+		{
+			"name": "Guitar Chord Sheets",
+			"duration": "May 2023 - Jul 2023",
+			"scope": "Designed and developed custom software that generates and exports guitar chords PDFs, with the flexibility to adjust guitar tuning and scale preferences.",
+			"bullets": [
+				"Employed Python and Pandas to efficiently manage and manipulate musical data, ensuring precise and adaptable chord sheet creation.",
+				"Implemented a streamlined workflow in Google Colab, enhancing productivity and ease of use for producing personalized PDFs."
+			]
+		}
+	],
+	"work": [
+		{
+			"title": "Software Development Intern",
+			"company": "BuildBoss",
+			"location": "Idaho Falls, Idaho",
+			"duration": "Jan 2023 - Aug 2023",
+			"scope": "Contributed to the enhancement and optimization of bid management software for the construction industry, showcasing adaptability to new technologies and a commitment to codebase improvement.",
+			"bullets": [
+				"Displayed a rapid capacity to acquire new technologies by efficiently updating projects using the Angular framework within a condensed timeframe, ensuring the continued delivery of cutting-edge solutions to construction professionals.",
+				"Successfully refactored the existing Angular codebase to align with industry best practices, resulting in a substantial enhancement of overall software performance and codebase readability."
+			]
+		},
+		{
+			"title": "Teaching Assistant",
+			"company": "Brigham Young University - Idaho",
+			"location": "Rexburg, Idaho",
+			"duration": "Feb 2021 - Sep 2022",
+			"scope": "Contributed to the improvement of students' comprehension of back-end web development principles, facilitated the creation of course materials, and efficiently managed student assignments to assist the professor.",
+			"bullets": [
+				"Elevated students' grasp of back-end web development concepts, including Node.js, Express, and MVC architecture, through dedicated teaching and support, fostering a deeper understanding of essential programming technologies.",
+				"Spearheaded the development of course materials for professor-led instruction, including the creation of informative PowerPoint presentations and websites to enhance the educational experience and deliver comprehensive content.",
+				"Streamlined the professor's workload by organizing and promptly grading students' completed projects and assignments, ensuring efficient feedback and assessment, and contributing to a smooth-running course."
+			]
+		}
+	]
+}
